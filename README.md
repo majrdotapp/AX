@@ -1,2 +1,2 @@
-# lamx
-Coming soon 
+# Artist Experience (AX)
+- Currently hosted at https://artists.majr.app 
